@@ -1,0 +1,8 @@
+**/node_modules/*
+**/.firebaserc
+*/npm-debug.log
+*~
+.DS_Store
+*.log
+*adminsdk*.json
+service-account*.json

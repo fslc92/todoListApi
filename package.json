@@ -1,0 +1,26 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fslc92/todoListApi.git"
+  },
+  "author": "fslc92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fslc92/todoListApi/issues"
+  },
+  "homepage": "https://github.com/fslc92/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
