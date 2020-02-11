@@ -1,0 +1,15 @@
+{
+    "data": {
+        "values": {
+            "DayDataWasPulled": "04.02.2020",
+            "CurrentCropDataAvailableMonthAndYear": "12/2020",
+            "ToDateCropReceipts": 2385328020,
+            "NetShipmentsCurrentMonth": 1051323305,
+            "Commitments": 609728478,
+            "DomesticShipmentsCurrentMonth": 57489429,
+            "DomesticShipmentsYTD": 297548942,
+            "ExpporShipmentsCurrentMonth": 148466577,
+            "ExpportShipmentsYTD": 753774363
+        }
+    }
+}
